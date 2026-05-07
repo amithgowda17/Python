@@ -4,6 +4,6 @@ venv/
 # Ignore IDE files
 .idea/
 
-pyproject
+pyproject.toml
 
 uv.lock
