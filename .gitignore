@@ -1,0 +1,9 @@
+# Ignore virtual environment
+venv/
+
+# Ignore IDE files
+.idea/
+
+pyproject
+
+uv.lock
