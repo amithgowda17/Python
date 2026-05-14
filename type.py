@@ -27,7 +27,9 @@ print(type(number.imag))#it will 8.0
 
 #j is already a special symbol that represents the imaginary unit:
 
+number=10
 
+print("number===="+str(number))
 
 
 
