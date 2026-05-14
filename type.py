@@ -31,7 +31,15 @@ number=10
 
 print("number===="+str(number))
 
+number=round(3.777)
 
+print(number)
 
+number=round(3.177)
 
+print(number)
+
+number=round(3.77711111,3)
+
+print(number)
 
